@@ -1,6 +1,6 @@
 # HR-Dashboard-MySQL-PowerBI
 
-C:\Users\James Ekpa\Downloads\hr Dashboard.PNG
+![image](https://github.com/EKPAHOPE/HR-Dashboard-MySQL-PowerBI/blob/main/hr%20Dashboard.PNG)
 
 ## Data Used
 
